@@ -321,3 +321,4 @@ issues or to make pull requests.
     [CHANGELOG.md](https://github.com/jendrikseipp/vulture/blob/master/CHANGELOG.md)
   - Roadmap:
     [TODO.md](https://github.com/jendrikseipp/vulture/blob/master/TODO.md)
+
