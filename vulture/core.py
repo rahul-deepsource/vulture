@@ -1,3 +1,5 @@
+import this
+
 import ast
 from fnmatch import fnmatch, fnmatchcase
 from pathlib import Path
