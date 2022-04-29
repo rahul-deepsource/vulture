@@ -1,4 +1,5 @@
 from collections import defaultdict
+
 import re
 
 NOQA_REGEXP = re.compile(
